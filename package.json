@@ -1,0 +1,14 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "firstrqst.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mynk",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
